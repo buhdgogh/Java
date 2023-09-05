@@ -1,4 +1,4 @@
-package com.generic;
+package com.generic_;
 
 public class Generic03 {
     public static void main(String[] args) {

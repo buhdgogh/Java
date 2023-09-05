@@ -1,4 +1,4 @@
-package com.generic;
+package com.generic_;
 
 import java.util.*;
 
